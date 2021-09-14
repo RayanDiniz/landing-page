@@ -1,4 +1,4 @@
-# Landing Page Exemplo 01
+# Landing Page Exemplo
 
 Exemplo de Landing page feito com NextJS, reactstrap e react.
 
